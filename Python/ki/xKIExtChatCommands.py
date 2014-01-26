@@ -131,4 +131,5 @@ xChatSpecialHandledCommands = [
     Plasma.PtGetLocalizedString("KI.Commands.ChatPrivate"),
     Plasma.PtGetLocalizedString("KI.Commands.ChatNeighbors"),
     Plasma.PtGetLocalizedString("KI.Commands.ChatBuddies"),
+    "/r",
 ]
